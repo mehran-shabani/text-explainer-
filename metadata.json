@@ -1,0 +1,5 @@
+{
+  "name": "AI Text Explainer",
+  "description": "Paste any text and listen to an AI-generated educational explanation about it. The app uses advanced AI to analyze the content and then generates speech to teach you about the topic in a clear and engaging way.",
+  "requestFramePermissions": []
+}
